@@ -1,0 +1,1 @@
+sqlcmd -S localhost\sqlexpress –e -i .\VisualDesignerDemo.sql  -o Vdemo.out
